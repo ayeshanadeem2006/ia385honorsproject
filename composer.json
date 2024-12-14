@@ -1,0 +1,13 @@
+{
+    "name": "ia385/honors-project",
+    "description": "A secure web application for demonstrating database and web application security.",
+    "type": "project",
+    "require": {
+        "php": "^7.4 || ^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Src\\": "src/"
+        }
+    }
+}

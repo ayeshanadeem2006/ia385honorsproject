@@ -1,0 +1,45 @@
+/* General Body Styling */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+    background-color: #e3f2fd; /* Pastel blue background */
+    color: #333; /* Dark text for contrast */
+}
+
+/* Header Styling */
+h1 {
+    color: #1565c0; /* Deep pastel blue for header */
+    font-weight: normal;
+}
+
+/* Link Styling */
+a {
+    text-decoration: none;
+    color: #42a5f5; /* Bright pastel blue for links */
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #1e88e5; /* Slightly darker pastel blue on hover */
+}
+
+/* Button Styling */
+button {
+    background-color: #64b5f6; /* Soft pastel blue for buttons */
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 10px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #42a5f5; /* Darker pastel blue on hover */
+}
